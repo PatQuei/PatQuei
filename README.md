@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patyqueiroz)
 
-Sou uma **analista operacional** em transição para a área de **Dados**. Tenho mais de 10 anos de experiência em operações e suporte técnico, mas agora estou me dedicando a aprender tudo sobre **Data Science** e **Engenharia de Dados**.
+Sou uma **analista operacional** em transição para a área de **Dados**. Tenho mais de 10 anos de experiência em operações e suporte técnico, e agora, apesar de estar me formando em Gestão Emnpresarial na Fatec ZL, estou me dedicando também a aprender tudo sobre **Data Science** e **Engenharia de Dados**.
 
 ## 📚 O que eu ando estudando
 
