@@ -10,7 +10,7 @@ Sou uma **analista operacional** em transição para a área de **Dados**. Tenho
 
 | Cursos | Certificados |
 |--------|--------------|
-| Data Analytics com Power BI | [Certificado](https://hermes.dio.me/certificates/J7E6IYMY.pdf) |
+| Python Data Analytics | [Certificado](https://hermes.dio.me/certificates/J7E6IYMY.pdf](https://hermes.dio.me/certificates/OG8TRMKH.pdf)) |
 | Python AI Backend Developer | [Certificado](https://hermes.dio.me/certificates/UONUQQPW.pdf) |
 | Fundamentos de IA para Devs | [Certificado](https://hermes.dio.me/certificates/ZZJNFESE.pdf) |
 
