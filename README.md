@@ -1,4 +1,4 @@
-# 👋 Oi, eu sou a Patricia Queiroz
+# 👋 Oi, tudo bem? Eu sou a Patricia Queiroz
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patyqueiroz)
 
