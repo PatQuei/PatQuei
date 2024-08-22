@@ -19,16 +19,4 @@ Sou uma **analista operacional** em transição para a área de **Dados**. Tenho
 - **Git & GitHub**: Controle de versão, sempre!
 - **IA Generativa**: Explorando ferramentas como ChatGPT.
 
-
-
-## 🎓 Formação
-
-- **FATEC ZL**  
-  *Gestão Empresarial - 2023 - 2025*
-
-- **Fatec São Bernardo do Campo**  
-  *Informática para Gestão de Negócios - 2015 - 2016*(Não concluido)
-
-## 🎯 Objetivo
-
-Minha meta é usar minhas novas habilidades em dados para criar soluções que realmente façam a diferença e ajudar as empresas a crescerem com insights valiosos.
+🎯 Minha meta é usar minhas novas habilidades em dados para criar soluções que realmente façam a diferença e ajudar as empresas a crescerem com insights valiosos.
