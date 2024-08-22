@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Oi, eu sou a Patricia Queiroz
 
-<!--
-**PatQuei/PatQuei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patyqueiroz)
 
-Here are some ideas to get you started:
+Sou uma **analista operacional** em transição para a área de **Dados**. Tenho mais de 10 anos de experiência em operações e suporte técnico, mas agora estou me dedicando a aprender tudo sobre **Data Science** e **Engenharia de Dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 O que eu ando estudando
+
+- **Data Analytics com Power BI** - Sysvision, DIO
+- **Engenharia de Dados** - Ada Tech
+- **Python AI Backend Developer** - DIO
+- **Fundamentos de IA para Devs** - Santander 2024, DIO
+
+## 🛠️ Minhas Skills
+
+- **Python**: Código focado em IA e análise de dados.
+- **SQL**: Consultas para buscar e manipular dados.
+- **Power BI**: Dashboards e relatórios visuais.
+- **Git & GitHub**: Controle de versão, sempre!
+- **IA Generativa**: Explorando ferramentas como ChatGPT.
+
+
+
+## 🎓 Formação
+
+- **FATEC ZL**  
+  *Gestão Empresarial - 2023 - 2025*
+
+- **Fatec São Bernardo do Campo**  
+  *Informática para Gestão de Negócios - 2015 - 2016*(Não concluido)
+
+## 🎯 Objetivo
+
+Minha meta é usar minhas novas habilidades em dados para criar soluções que realmente façam a diferença e ajudar as empresas a crescerem com insights valiosos.
