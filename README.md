@@ -1,6 +1,8 @@
 # 👋 Oi, tudo bem? Eu sou a Patricia Queiroz
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patyqueiroz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patyqueiroz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](patriciaqueiroz35@gmail.com)
+[![DIO Badge](https://img.shields.io/badge/-DIO-%237159c1?style=for-the-badge&logo=data:image/png;base64,[BASE64_STRING]&logoColor=white)](https://www.dio.me/users/patriciaqueiroz35)
 
 
 
